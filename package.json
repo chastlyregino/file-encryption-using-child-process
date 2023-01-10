@@ -1,0 +1,33 @@
+{
+    "name": "file-encryption-using-child-process",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chastlyregino/file-encryption-using-child-process.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chastlyregino/file-encryption-using-child-process/issues"
+    },
+    "homepage": "https://github.com/chastlyregino/file-encryption-using-child-process#readme",
+    "type": "module",
+    "devDependencies": {
+        "eslint": "^8.29.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.26.0"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.3"
+      }
+}
